@@ -1,0 +1,12 @@
+---
+title: "VSTAR: A Video-grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions"
+authors: "Yuxuan Wang, Zilong Zheng, Xueliang Zhao, Jinpeng Li, <b>Yueqian Wang</b>, Dongyan Zhao"
+collection: publications
+permalink: /publication/2023-acl-vstar
+excerpt: 'A large-scale video dialogue corpus collected from TV series with scene and segment transistion annotation.'
+date: 2023-07-04
+venue: 'Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
+paperurl: 'https://aclanthology.org/2023.acl-long.276/'
+---
+
+Abstract: Video-grounded dialogue understanding is a challenging problem that requires machine to perceive, parse and reason over situated semantics extracted from weakly aligned video and dialogues. Most existing benchmarks treat both modalities the same as a frame-independent visual understanding task, while neglecting the intrinsic attributes in multimodal dialogues, such as scene and topic transitions. In this paper, we present Video-grounded Scene&Topic AwaRe dialogue (VSTAR) dataset, a large scale video-grounded dialogue understanding dataset based on 395 TV series. Based on VSTAR, we propose two benchmarks for video-grounded dialogue understanding: scene segmentation and topic segmentation, and one benchmark for video-grounded dialogue generation. Comprehensive experiments are performed on these benchmarks to demonstrate the importance of multimodal information and segments in video-grounded dialogue understanding and generation.
