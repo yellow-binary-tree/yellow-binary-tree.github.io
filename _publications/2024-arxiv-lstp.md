@@ -4,7 +4,7 @@ authors: "Yuxuan Wang, <b>Yueqian Wang</b>, Pengfei Wu, Jianxin Liang, Dongyan Z
 collection: publications
 permalink: /publication/2024-arxiv-lstp
 excerpt: "Intergrating optical flow for relevant content selection to improve video-text LLMs' abilities on videoqa."
-date: 2024-03-15
+date: 2024-01-01
 venue: "arXiv:2402.16050"
 paperurl: "https://arxiv.org/abs/2402.16050"
 ---

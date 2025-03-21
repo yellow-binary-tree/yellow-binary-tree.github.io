@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% if site.author.googlescholar %}
+{% if site.author.semanticscholar %}
   <div class="wordwrap">You can also find my papers on <a href="{{site.author.semanticscholar}}">my Semantic Scholar profile</a>.</div>
 {% endif %}
 

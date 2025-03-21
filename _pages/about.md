@@ -12,3 +12,5 @@ Yueqian Wang 王越千 is currently a **Ph.D. Candidate at Wangxuan Institute of
 He received his Bachelor’s Degree in Management at the Department of Information Management, Peking University, and Bachelor’s Degree in Science at the School of Electronics Engineering and Computer Science, Peking University in 2021.
 
 His current research interests include multimodal pre-trained models, especially video-text large language models.
+
+For more information please refer to this <a href="files/CV_ENG.pdf">CV</a>.
